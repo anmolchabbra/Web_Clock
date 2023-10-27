@@ -27,7 +27,7 @@ html, body{
     background: rgb(1, 43, 57);
 }
 .clock #time{
-    font-size: 63px;
+    font-size: 60px;
     color:white;
     padding: 12px;
     font-family: 'Lato', sans-serif;
